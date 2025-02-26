@@ -1,30 +1,31 @@
-﻿# ATM-Machine
-# 🏧 ATM Machine Project
+# 🏧 ATM Machine Simulation Project
 
 ## 📌 Overview
-This is a Java-based ATM Machine project that demonstrates core Object-Oriented Programming (OOP) principles using Swing for the graphical user interface (GUI). The project simulates basic ATM functionalities such as account authentication, balance inquiry, cash withdrawal, and deposit transactions.
+This project is a Java-based ATM Machine Simulation that provides users with a realistic banking experience. It follows Object-Oriented Programming (OOP) principles and utilizes Swing for a graphical user interface (GUI). The system allows users to authenticate, check their balance, withdraw and deposit cash, and track transactions in a simulated environment.
 
 ## ✨ Features
-- 🔐 User authentication with PIN verification
+- 🔐 Secure user authentication with PIN verification
 - 💰 Account balance inquiry
 - 💵 Cash withdrawal and deposit functionality
-- 📜 Transaction history tracking
-- 🖥️ Simple and user-friendly Swing-based GUI
-- ⚠️ Error handling for invalid operations
+- 📝 Transaction history tracking
+- 🖥️ Intuitive and user-friendly Swing-based GUI
+- ⚠️ Error handling for invalid inputs and transactions
+- 🔄 Simulation of bank transactions with real-world constraints
 
 ## 🛠 Technologies Used
-- ☕ Java
-- 🖥️ Swing (for GUI development)
-- 📌 Object-Oriented Programming (OOP) principles
+- ☕ Java (Core Java, OOP principles)
+- 🖥️ Swing (Graphical User Interface)
+- 🗃️ File Handling (for data storage and retrieval)
+- 🔄 Exception Handling
 
 ## 🚀 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/atm-machine.git
+   git clone git@github.com:sharma-sonu/ATM-Machine.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd atm-machine
+   cd atm-simulation
    ```
 3. Compile the Java files:
    ```bash
@@ -36,9 +37,15 @@ This is a Java-based ATM Machine project that demonstrates core Object-Oriented 
    ```
 
 ## 🏦 Usage
-- 🔑 Launch the application and enter the required credentials.
-- 🏧 Perform basic banking operations such as balance inquiry, withdrawal, and deposit.
-- 🚪 Log out after completing transactions.
+- 🔑 Enter the required credentials to access the ATM system.
+- 🏧 Perform banking transactions such as balance inquiry, withdrawal, and deposit.
+- 📜 View transaction history for past transactions.
+- 🚪 Log out securely after completing transactions.
+
+## 🛠 Future Enhancements
+- 🏦 Integration with a database for persistent storage
+- 📱 Mobile-friendly UI using JavaFX
+- 🔗 Online banking simulation with network connectivity
 
 ## 🤝 Contributing
 Contributions are welcome! If you'd like to improve the project, feel free to fork the repository and submit a pull request.
@@ -48,6 +55,7 @@ This project is licensed under the MIT License.
 
 ## 📩 Contact
 For any questions or suggestions, feel free to reach out:
-- 📧 Email: your-sonuhyt99058@gmail.com
-
+- 📧 Email: your-email@example.com
+- 🔗 LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
+- 🐙 GitHub: [Your GitHub](https://github.com/sharma-sonu)
 
